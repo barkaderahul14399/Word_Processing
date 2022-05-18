@@ -5,22 +5,22 @@ Here WE got Reviews frpm customers And On the Basis of that we have to detect wh
 
 Steps------->
 
-Read data 
+1.Read data 
 
-Remove special characters
+2.Remove special characters
 
-convert to upper or lowercase letter
+3.convert to upper or lowercase letter
 
-count vectorizing
+4.count vectorizing
 
-Devide data into training And Testing Sers
+5.Devide data into training And Testing Sers
 
-Declare X As Cv & Declaring Y
+6.Declare X As Cv & Declaring Y
 
-Create NN Model
+7.Create NN Model
 
-Check accuracy
+8.Check accuracy
 
-implement Reasults on testing Data
+9.implement Reasults on testing Data
 
-Check For external Sentence
+10.Check For external Sentence
